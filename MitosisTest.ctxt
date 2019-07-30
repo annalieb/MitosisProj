@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MitosisTest
+comment0.text=\n\ A\ class\ to\ test\ the\ Mitosis\ class.\n\n\ @Anna\ Lieb\n\ @Pd.\ 3\ Bio\ -\ 6/16/19\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Simulates\ mitosis\ by\ calling\ on\ methods\ from\ Cell_AL\ which\ model\ the\ different\ \n\ phases\ of\ mitosis\ in\ order.\n
+numComments=2

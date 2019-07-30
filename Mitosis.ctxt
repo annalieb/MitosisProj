@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Mitosis
+comment0.text=\n\ An\ animation\ of\ cell\ mitosis.\n\n\ @Anna\ Lieb\n\ @Pd.\ 3\ Bio\ -\ 6/16/19\n
+comment1.params=
+comment1.target=Mitosis()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MitosisStdDraw_AL\n
+comment2.params=
+comment2.target=java.lang.String\ prophase()
+comment2.text=\n\ Models\ prophase,\ the\ first\ phase\ of\ mitosis.\ \n
+comment3.params=
+comment3.target=java.lang.String\ metaphase()
+comment3.text=\n\ Models\ metaphase,\ the\ second\ phase\ of\ mitosis,\ in\ text.\ \n
+comment4.params=
+comment4.target=java.lang.String\ anaphase()
+comment4.text=\n\ Models\ anaphase,\ the\ third\ phase\ of\ mitosis,\ in\ text.\ \n
+comment5.params=
+comment5.target=java.lang.String\ telophase()
+comment5.text=\n\ Models\ telophase,\ the\ fourth\ and\ final\ phase\ of\ mitosis,\ in\ text.\ \n
+numComments=6
